@@ -1,0 +1,46 @@
+{
+    "opening": [
+      "W pewnym odległym kraju, ",
+      "W malowniczej wiosce, ",
+      "Na mroźnym, zamieszkałym pustkowiu, "
+    ],
+    "characters": [
+        "Emma",
+        "Daniel",
+        "Sophia",
+        "Oliver",
+        "Ava",
+        "Liam",
+        "Mia",
+        "Noah",
+        "Isabella",
+        "Jacob",
+        "Sophie",
+        "Ethan"
+    ],
+    "conflicts": [
+        "muszą stawić czoła swoim największym lękom.",
+        "odkrywają tajemniczy artefakt.",
+        "wyruszają w pełną przygód podróż.",
+        "stają w obliczu niewyjaśnionych zjawisk.",
+        "walczą o przetrwanie w brutalnym świecie.",
+        "znajdują się w środku starożytnej wojny."
+    ],
+    "resolutions": [
+        "Nauczą się ważnych życiowych lekcji.",
+        "Rozwiążą zagadkę, która od wieków dręczyła ich społeczność.",
+        "Znajdą drogę powrotną do domu.",
+        "Odkryją swoje prawdziwe przeznaczenie.",
+        "Pokonają własne słabości i wzmocnią swoje umiejętności.",
+        "Znajdą prawdziwą miłość i odnajdą spokój."
+    ],
+    "endings": [
+        "I tak zaczęła się ich nowa przygoda.",
+        "I razem zbudowali lepsze jutro.",
+        "I wiedzieli, że przyjaźń jest największym skarbem.",
+        "I odnaleźli spokój i szczęście.",
+        "I stali się legendą przekazywaną z pokolenia na pokolenie.",
+        "I ich historia rozbrzmiewała wśród gwiazd."
+    ]
+  }
+  
